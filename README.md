@@ -1,4 +1,4 @@
-# Fullstack-Ecommerce-React-Springboot
+# Fullstack-Ecommerce-React-Springboot (In-Progress)
 Full Stack Amazon Clone with Admin Dashboard & Payment Gateway.
 
 ## 🖥️ Tech Stack
